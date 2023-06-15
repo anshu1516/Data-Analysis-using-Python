@@ -7,6 +7,7 @@ We will go through these main steps for this project:
  3. Analyse the data
 
 Count the man of the match for each player.
+
 Count of the top 10 men of the match.
 Getting the top 5 players' names (only) with the most man-of-the-match awards.
 Plotting a barplot for the top 5 players with the most man-of-the-match awards.
