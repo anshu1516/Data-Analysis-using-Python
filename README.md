@@ -36,3 +36,6 @@ Plotting a barplot for the top 5 nationality
 
 
 [Project 3: Covid 19 India case study](https://github.com/anshu1516/Data-Analysis-using-Python/blob/main/Covid%2019%20India%20case%20study.ipynb)
+
+
+[Project 4: Marvel Data Analysis](https://github.com/anshu1516/Data-Analysis-using-Python/blob/main/Marvel%20.ipynb)
