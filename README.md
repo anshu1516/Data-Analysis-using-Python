@@ -25,3 +25,11 @@ Extracting those records where a team has won by batting second.
 Most win on batting second.
 
 Extracting the number of games played in each season.
+
+
+
+[Project2: FIFA Data Analysis](https://github.com/anshu1516/Data-Analysis-using-Python/blob/main/Python%20project%20on%20FIFA.ipynb)
+
+Nation of participating players
+
+Plotting a barplot for the top 5 nationality
