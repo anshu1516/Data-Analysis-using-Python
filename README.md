@@ -1,5 +1,5 @@
 # Data-Analysis-using-Python
-[Project1: IPL Data Analysis](https://github.com/anshu1516/Data-Analysis-using-Python/blob/main/Python%20project%20on%20IPL%20data.ipynb)
+[Project 1: IPL Data Analysis](https://github.com/anshu1516/Data-Analysis-using-Python/blob/main/Python%20project%20on%20IPL%20data.ipynb)
 
 We will go through these main steps for this project:
  1. Import libraries
@@ -28,8 +28,11 @@ Extracting the number of games played in each season.
 
 
 
-[Project2: FIFA Data Analysis](https://github.com/anshu1516/Data-Analysis-using-Python/blob/main/Python%20project%20on%20FIFA.ipynb)
+[Project 2: FIFA Data Analysis](https://github.com/anshu1516/Data-Analysis-using-Python/blob/main/Python%20project%20on%20FIFA.ipynb)
 
 Nation of participating players
 
 Plotting a barplot for the top 5 nationality
+
+
+[Project 3: Covid 19 India case study](https://github.com/anshu1516/Data-Analysis-using-Python/blob/main/Covid%2019%20India%20case%20study.ipynb)
